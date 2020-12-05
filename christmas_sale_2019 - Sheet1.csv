@@ -1,1 +1,3 @@
-1,2,3
+date,category,count,purchase_price,sale_price,in_stock_eod
+2019-12-25,cars,23,100,119,34
+2019-12-25,dolls,21,99,11,333
