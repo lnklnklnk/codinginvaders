@@ -1,9 +1,50 @@
 date,category,count,purchase_price,sale_price,in_stock_eod
-2019-12-25,cars,0,100,119,0
-2019-12-25,dolls,40,11,99,248
-2019-12-24,cars,0,100,119,0
-2019-12-24,dolls,45,11,99,288
-2019-12-23,cars,34,100,119,0
-2019-12-23,dolls,21,11,99,333
-2019-12-23,cars,35,100,119,34
-2019-12-23,dolls,21,11,99,354
+2019-12-19,Games & Puzzles,197,567,1090,10000
+2019-12-20,Games & Puzzles,218,567,1090,9782
+2019-12-21,Games & Puzzles,217,567,1090,9565
+2019-12-22,Games & Puzzles,214,567,1090,9351
+2019-12-23,Games & Puzzles,233,567,1090,9118
+2019-12-24,Games & Puzzles,246,567,1090,8872
+2019-12-25,Games & Puzzles,252,567,1090,8620
+2019-12-19,Education & Construction Toys,149,2450,3990,400
+2019-12-20,Education & Construction Toys,164,2450,3990,236
+2019-12-21,Education & Construction Toys,155,2450,3990,81
+2019-12-22,Education & Construction Toys,81,2450,3990,0
+2019-12-23,Education & Construction Toys,0,2450,3990,0
+2019-12-24,Education & Construction Toys,0,2450,3990,0
+2019-12-25,Education & Construction Toys,0,2450,3990,0
+2019-12-19,Dolls & Fashion,103,1230,1990,10000
+2019-12-20,Dolls & Fashion,99,1230,1990,9901
+2019-12-21,Dolls & Fashion,107,1230,1990,9794
+2019-12-22,Dolls & Fashion,100,1230,1990,9694
+2019-12-23,Dolls & Fashion,105,1230,1990,9589
+2019-12-24,Dolls & Fashion,121,1230,1990,9468
+2019-12-25,Dolls & Fashion,110,1230,1990,9358
+2019-12-19,Collectibles & Toy Guns,154,1460,2390,300
+2019-12-20,Collectibles & Toy Guns,143,1460,2390,157
+2019-12-21,Collectibles & Toy Guns,142,1460,2390,15
+2019-12-22,Collectibles & Toy Guns,15,1460,2390,0
+2019-12-23,Collectibles & Toy Guns,0,1460,2390,500
+2019-12-24,Collectibles & Toy Guns,171,1460,2390,329
+2019-12-25,Collectibles & Toy Guns,173,1460,2390,156
+2019-12-19,Books & Magazines,303,670,990,10000
+2019-12-20,Books & Magazines,345,670,990,9655
+2019-12-21,Books & Magazines,356,670,990,9299
+2019-12-22,Books & Magazines,362,670,990,8937
+2019-12-23,Books & Magazines,339,670,990,8598
+2019-12-24,Books & Magazines,381,670,990,8217
+2019-12-25,Books & Magazines,413,670,990,7804
+2019-12-19,"Vehicles, Tracksets & Remote Control Toys",135,4150,5900,8
+2019-12-20,"Vehicles, Tracksets & Remote Control Toys",8,4150,5900,0
+2019-12-21,"Vehicles, Tracksets & Remote Control Toys",0,4150,5900,0
+2019-12-22,"Vehicles, Tracksets & Remote Control Toys",0,4150,5900,0
+2019-12-23,"Vehicles, Tracksets & Remote Control Toys",0,4150,5900,0
+2019-12-24,"Vehicles, Tracksets & Remote Control Toys",0,4150,5900,200
+2019-12-25,"Vehicles, Tracksets & Remote Control Toys",150,4150,5900,50
+2019-12-19,New Gen Toys,22,5400,10990,10000
+2019-12-20,New Gen Toys,22,5400,10990,9978
+2019-12-21,New Gen Toys,21,5400,10990,9957
+2019-12-22,New Gen Toys,22,5400,10990,9935
+2019-12-23,New Gen Toys,21,5400,10990,9914
+2019-12-24,New Gen Toys,21,5400,10990,9893
+2019-12-25,New Gen Toys,19,5400,10990,9874
